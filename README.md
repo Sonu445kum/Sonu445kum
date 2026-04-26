@@ -88,18 +88,18 @@ const sonu = {
 - 🔐 Integrated secure REST APIs with **Django REST Framework + JWT authentication**
 - 🤝 Followed **Agile/Scrum** practices — sprint planning, Git branching, PRs, and code reviews
 
-### 🏢 Full-Stack Developer Intern — BrTech Solution Private Ltd.
-**May 2024 – Dec 2024 | New Delhi, India**
-- 🚀 Designed and deployed **3+ full-stack MERN web applications** for international clients; improved API response time by **30%** via MongoDB query optimization and Express.js middleware tuning
-- 🔐 Built secure **RESTful APIs** with **JWT authentication** and **Role-Based Access Control (RBAC)**; integrated **Razorpay**, **SendGrid**, and **AWS S3** in production
-- ⚛️ Developed **15+ reusable, modular React.js components** using **Redux Toolkit**; managed full project lifecycle from requirements gathering to **Docker-based cloud deployment on AWS**
-
 ### 💻 Freelance Full-Stack Developer (MERN Stack)
-**Aug 2023 – April 2024 | Remote**
+**Jan 2025 – Jun 2025 | Remote**
 - 🌍 Delivered **3+ full-stack MERN apps** for international clients
 - 🚀 Improved API response time by **30%** via MongoDB query optimization
 - 💳 Integrated **Razorpay**, **SendGrid**, and **AWS S3** in production apps
 - 🐳 Managed full project lifecycle from requirements to **Docker + AWS deployment**
+
+  ### 🏢 Full-Stack Developer Intern — BrTech Solution Private Ltd.
+**May 2024 – Dec 2024 | New Delhi, India**
+- 🚀 Designed and deployed **3+ full-stack MERN web applications** for international clients; improved API response time by **30%** via MongoDB query optimization and Express.js middleware tuning
+- 🔐 Built secure **RESTful APIs** with **JWT authentication** and **Role-Based Access Control (RBAC)**; integrated **Razorpay**, **SendGrid**, and **AWS S3** in production
+- ⚛️ Developed **15+ reusable, modular React.js components** using **Redux Toolkit**; managed full project lifecycle from requirements gathering to **Docker-based cloud deployment on AWS**
 
 ---
 
