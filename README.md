@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sonu445kum"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sonuroy1629@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Sonu445kum"><img src="https://img.shields.io/github/followers/Sonu445kum?label=Follow&style=social" /></a>
 </p>
 
