@@ -98,6 +98,18 @@ const sonu = {
 ---
 
 ## 🚀 Featured Projects
+### 🛍️ [MERN E-Commerce Application](https://github.com/Sonu445kum) &nbsp;[![Live Demo](https://img.shields.io/badge/Live_Demo-View-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://new-ecommerce-website-chi.vercel.app/)
+> **React.js • Node.js • Express.js • MongoDB • Docker • GitHub Actions • CI/CD • Vercel • Render**
+
+![Status](https://img.shields.io/badge/Status-Live_in_Production-22c55e?style=flat-square) ![Docker](https://img.shields.io/badge/Containerized-Docker-2496ED?style=flat-square&logo=docker) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
+
+- 🚀 **Full-stack MERN** e-commerce platform deployed on **Vercel (frontend) + Render (backend)** with **Docker containerization**
+- ⚙️ Implemented **CI/CD pipeline using GitHub Actions** — auto build, test & deploy on every push to main
+- 🔍 Advanced product filtering by **category, gender, color & size** with real-time search across collections
+- 🛒 Complete shopping flow — **product listing, cart, checkout** with Men/Women collections
+- 🔐 Secure **JWT authentication**, role-based access & protected API routes
+- 🐳 **Dockerized** both frontend and backend; configured full deployment pipeline end-to-end
+
 
 ### 🛒 [E-Commerce Web Application](https://github.com/Sonu445kum/sonularavelecommerce)
 > **PHP • Laravel • MySQL**
