@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar;Full+Stack+Developer;MERN+%7C+Django+%7C+Laravel;290%2B+LeetCode+Problems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonu+Kumar;Full+Stack+Developer;MERN+%7C+Django+%7C+Laravel;300%2B+LeetCode+Problems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Software Engineer (Full Stack) | Building scalable production-ready web apps</h3>
@@ -174,7 +174,7 @@ const sonu = {
   <img src="https://leetcard.jacoblin.cool/sonukum123?theme=dark&font=Karma&ext=heatmap" width="60%" />
 </p>
 
-> 🔥 **290+ DSA problems solved** in JavaScript | Arrays, Strings, Hashing, Two Pointers, Sliding Window, Recursion
+> 🔥 **300+ DSA problems solved** in JavaScript | Arrays, Strings, Hashing, Two Pointers, Sliding Window, Recursion
 
 ---
 
