@@ -33,7 +33,7 @@ const sonu = {
   location:   "Gurugram, India 🇮🇳",
   experience: "1+ Year in Production-ready Web Development",
   stack:      ["MERN", "Django REST", "Laravel", "Docker", "AWS"],
-  leetcode:   "290+ DSA problems solved in JavaScript 🔥",
+  leetcode:   "300+ DSA problems solved in JavaScript 🔥",
   currentJob: "Software Developer Intern @ Jobma (Select Source International)",
   portfolio:  "https://react-animated-portfolio-dhpu.onrender.com",
   email:      "sonuroy1629@gmail.com",
