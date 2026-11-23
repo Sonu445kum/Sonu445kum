@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Sonu%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Next.js%20%E2%80%A2%20MERN%20%E2%80%A2%20Node.js&descAlignY=55&descSize=20" width="100%"/>
+<img src="./assets/header.svg" alt="Hi, I'm Sonu Kumar - Full Stack Software Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Building+scalable+production-grade+web+platforms;Led+search+%26+filtration+for+500%2B+live+projects;Cut+API+payloads+by+~89%25+at+100Acress.com;Currently+%40+Carelix+Healthcare+%F0%9F%8F%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+production-grade+web+platforms;Led+search+%26+filtration+for+500%2B+live+projects;Cut+API+payloads+by+~89%25+at+100Acress.com;Building+CommsHub+%26+Ashniva+Connect+SaaS;Currently+%40+Carelix+Healthcare+%F0%9F%8F%A5" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Gurugram,_India-6366F1?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/💼_Currently_@_Carelix_Healthcare-22D3EE?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🧩_300+_LeetCode_Solved-F59E0B?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/📍_Gurugram,_India-0f2140?style=for-the-badge&labelColor=0d1117&color=38BDF8" />
+<img src="https://img.shields.io/badge/💼_Currently_@_Carelix_Healthcare-0f2140?style=for-the-badge&labelColor=0d1117&color=6366F1" />
+<img src="https://img.shields.io/badge/🧩_300+_LeetCode_Solved-2b1d0a?style=for-the-badge&labelColor=0d1117&color=F59E0B" />
 
 <br/><br/>
 
@@ -29,10 +29,11 @@ const sonu = {
   name:         "Sonu Kumar",
   role:         "Full Stack Software Engineer",
   location:     "Gurugram, India 🇮🇳",
-  experience:   "2.5+ Years — production-grade web applications",
+  experience:   "2.5+ years building production-grade web applications",
   currentWork:  "Full Stack Developer @ Carelix Healthcare (Sep 2026 — Present)",
   previousWork: "Full Stack Developer @ 100Acress.com — multi-country real estate platform",
-  focus:        ["Next.js", "React.js", "Node.js", "TypeScript", "MongoDB", "Redis", "AWS"],
+  building:     ["CommsHub", "Ashniva Connect", "Carelix Meet"],
+  focus:        ["Next.js", "React", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Redis", "AWS"],
   signature:    "Led global search & filtration across 500+ live real estate projects",
   leetcode:     "300+ DSA problems solved in JavaScript 🔥",
   openTo:       ["Full-time", "Remote", "Gurugram", "Noida", "Delhi NCR"],
@@ -46,34 +47,16 @@ const sonu = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,php,react,redux,nextjs,tailwind,bootstrap,html,css,nodejs,express,django,laravel,mongodb,mysql,redis,aws,docker,git,github,githubactions,vercel,linux&perline=8" />
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=js,ts,py,php&theme=dark" height="34" /></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css&theme=dark" height="34" /></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastify,django,laravel&theme=dark" height="34" /></td></tr>
+<tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&theme=dark" height="34" /></td></tr>
+<tr><td><b>DevOps & Cloud</b></td><td><img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,vercel,linux&theme=dark" height="34" /></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="34" /></td></tr>
+</table>
 
 </div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🎨 Frontend**
-`Next.js (App Router, SSR/SSG)` `React.js` `Redux Toolkit` `Tailwind CSS` `Bootstrap` `Responsive/SPA Design`
-
-**⚙️ Backend**
-`Node.js` `Express.js` `Django REST Framework` `Laravel` `JWT & RBAC` `RESTful APIs`
-
-</td>
-<td width="50%" valign="top">
-
-**🗄️ Data & Caching**
-`MongoDB Atlas` `MySQL` `Redis`
-
-**☁️ DevOps & Cloud**
-`AWS (EC2, S3, CloudFront)` `Docker` `CI/CD (GitHub Actions)` `Vercel` `Render` `Linux`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -85,7 +68,7 @@ const sonu = {
 ### 🏥 Full Stack Developer — **Carelix Healthcare**
 **Sep 2026 – Present | Gurugram, India**
 
-Building full-stack features using the **MERN stack and Next.js**, continuing the same production-grade engineering standards from previous roles — scalable APIs, optimized data layers, and performant React/Next.js frontends.
+Building full-stack features with the **MERN stack and Next.js** — scalable APIs, optimized data layers and performant React/Next.js frontends. Also building **Carelix Meet**, a WebRTC-based video meeting platform.
 
 </td></tr>
 <tr><td>
@@ -95,7 +78,7 @@ Building full-stack features using the **MERN stack and Next.js**, continuing th
 *Multi-country real estate platform (India, UAE, UK, Thailand, Indonesia) — Next.js App Router, Node.js/Express/TypeScript, MongoDB Atlas, Redis, AWS.*
 
 - ⚡ Refactored large Next.js files into proper server/client boundaries; fixed a blocking SSR prefetch anti-pattern and cut a core API payload from **226KB → 25KB (~89% smaller)** via field-level projection
-- 🐛 Resolved a production Google indexing issue and critical bugs — including a `StrictPopulateError` causing **13.5s hangs**, N+1 query patterns (replaced with single aggregations), and pagination/filter-state bugs
+- 🐛 Resolved a production Google indexing issue and critical bugs — including a `StrictPopulateError` causing **13.5s hangs**, N+1 query patterns (replaced with single aggregations) and pagination/filter-state bugs
 - 🔍 Led development of a **global search & filtration system** across the platform's **500+ live real estate projects and blogs**
 - 📊 Drove **~80% dynamic, database-driven rendering** on the frontend, replacing static content across listings and blogs
 - 🌍 Designed a **cascading 5-level location filter** (Country → State → City → Corridor → Sector) with Redis-cached dropdowns and ObjectId-based filtering
@@ -111,7 +94,7 @@ Building full-stack features using the **MERN stack and Next.js**, continuing th
 - ⚡ Built responsive React.js UI components for a scalable **HR SaaS platform**, integrated with RESTful APIs
 - 📈 Improved UI performance by **25%+** by reducing redundant API calls and optimizing Redux Toolkit state management
 - 🔐 Designed and consumed secure APIs using **Django REST Framework + JWT + RBAC**
-- 🤝 Collaborated cross-functionally on scalable API design, Git workflows, and code reviews
+- 🤝 Collaborated cross-functionally on scalable API design, Git workflows and code reviews
 
 </details>
 
@@ -123,9 +106,9 @@ Building full-stack features using the **MERN stack and Next.js**, continuing th
 <br/>
 
 - 🚀 Built and deployed full-stack MERN applications; improved **API response time by 30%** through query optimization and middleware tuning
-- 🔐 Built secure RESTful APIs with **JWT auth + RBAC**; integrated **Razorpay**, **SendGrid**, and **AWS S3**
+- 🔐 Built secure RESTful APIs with **JWT auth + RBAC**; integrated **Razorpay**, **SendGrid** and **AWS S3**
 - ⚛️ Built reusable, modular React.js components with **Redux Toolkit**
-- 🐳 Owned full SDLC — requirements to **Docker-based deployment on AWS**
+- 🐳 Owned the full SDLC — requirements to **Docker-based deployment on AWS**
 
 </details>
 
@@ -141,18 +124,74 @@ Building full-stack features using the **MERN stack and Next.js**, continuing th
 | Metric | Impact |
 |:---|:---|
 | 🚀 **API payload size** | Reduced **226KB → 25KB (~89%)** via field-level projection |
-| 🔍 **Search & filtration** | Led system serving **500+ live projects** |
+| 🔍 **Search & filtration** | Led a system serving **500+ live projects** |
 | 📈 **Dynamic rendering** | Drove **~80%** database-driven frontend at 100Acress |
 | ⚡ **UI performance** | **25%+** improvement at Jobma |
-| ⚙️ **API response time** | **30%** improvement (freelance/internship) |
-| 🗄️ **Query optimization** | **40%** join query time reduction (MySQL) |
+| ⚙️ **API response time** | **30%** improvement at BR Tech Solutions |
+| 🗄️ **Query optimization** | **40%** join-query time reduction (MySQL) |
 | 🧩 **DSA** | **300+** LeetCode problems solved in JavaScript |
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🏗️ Product & SaaS Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 📨 [CommsHub](https://github.com/sonuashniva445/commshub)
+**Enterprise Communication SaaS**
+
+Multi-channel platform (SMS, WhatsApp, Email, Voice, OTP).
+
+- Multi-tenant architecture & RBAC
+- API key management
+- Wallet & ledger, payment gateway
+- KYC workflows
+- Redis + background workers
+
+`Node.js` `TypeScript` `MongoDB` `Redis`
+
+</td>
+<td width="33%" valign="top">
+
+### 📞 [Ashniva Connect](https://github.com/sonuashniva445/ashniva-connect)
+**Communication Platform (CPaaS)**
+
+Developer-friendly APIs and communication infrastructure.
+
+- SMS & OTP infrastructure
+- DLT workflows
+- Routing & retry mechanisms
+- Webhooks & templates
+- Analytics & billing architecture
+
+`Node.js` `Fastify` `PostgreSQL` `Redis`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎥 [Carelix Meet](https://github.com/sonuashniva445/carelix-meet)
+**Real-Time Meeting Platform**
+
+Secure video meetings built around WebRTC.
+
+- Real-time audio & video
+- Multi-device join
+- Screen sharing
+- Meeting management
+
+`Next.js` `WebRTC` `PostgreSQL` `Prisma`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Other Projects
 
 <table width="100%">
 <tr>
@@ -161,7 +200,7 @@ Building full-stack features using the **MERN stack and Next.js**, continuing th
 ### 🛍️ [MERN E-Commerce App](https://new-ecommerce-website-chi.vercel.app/)
 **React • Node • Express • MongoDB • Docker • CI/CD**
 
-Full-stack platform deployed on Vercel + Render, fully Dockerized with a GitHub Actions CI/CD pipeline (auto build → test → deploy). Advanced filtering, JWT auth, protected routes.
+Full-stack platform deployed on Vercel + Render, fully Dockerized with a GitHub Actions CI/CD pipeline (build → test → deploy). Advanced filtering, JWT auth, protected routes.
 
 [`Live Demo`](https://new-ecommerce-website-chi.vercel.app/) · [`Code`](https://github.com/Sonu445kum)
 
@@ -171,7 +210,7 @@ Full-stack platform deployed on Vercel + Render, fully Dockerized with a GitHub 
 ### 🛒 [Laravel E-Commerce](https://sonularavelecommerce-4.onrender.com/)
 **PHP • Laravel • MySQL**
 
-Laravel MVC platform across 8 relational MySQL tables. Reduced join query time by **40%** via schema + indexing; 10+ REST endpoints with payment gateway integration.
+Laravel MVC platform across 8 relational MySQL tables. Cut join-query time by **40%** via schema + indexing; 10+ REST endpoints with payment gateway integration.
 
 [`Live Demo`](https://sonularavelecommerce-4.onrender.com/) · [`Code`](https://github.com/Sonu445kum/sonularavelecommerce)
 
@@ -203,18 +242,18 @@ Full LMS with online courses, quizzes, progress tracking, video streaming & cert
 
 <div align="center">
 
-**📖 [Full Stack DSA Roadmap](https://github.com/Sonu445kum/fullstack-dsa-roadmap)** — Complete interview prep: DSA, Full Stack, OS, DBMS, Networking, System Design, Docker, CI/CD
+**📖 [Full Stack DSA Roadmap](https://github.com/Sonu445kum/fullstack-dsa-roadmap)** — interview prep: DSA, Full Stack, OS, DBMS, Networking, System Design, Docker, CI/CD
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sonu445kum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu445kum&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Sonu445kum&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu445kum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu445kum&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="49%" />
@@ -267,10 +306,11 @@ Full LMS with online courses, quizzes, progress tracking, video streaming & cert
 
 ## 📬 Let's Connect
 
-<a href="https://react-animated-portfolio-dhpu.onrender.com" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-Visit-6366F1?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/sonu445kum/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:sonuroy1629@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail" /></a>
-<a href="https://leetcode.com/u/sonukum123" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" /></a>
+<a href="https://react-animated-portfolio-dhpu.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sonu445kum/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sonuroy1629@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sonukum123" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/Sonu445kum" target="_blank"><img src="https://img.shields.io/github/followers/Sonu445kum?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
 
 <br/><br/>
 
@@ -280,6 +320,8 @@ Full LMS with online courses, quizzes, progress tracking, video streaming & cert
 
 <i>⭐ If you like my work, consider starring some repositories!</i>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
